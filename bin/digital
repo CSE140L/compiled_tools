@@ -1,0 +1,5 @@
+#!/bin/bash
+
+java -cp "$(dirname $0)/Digital.jar" CLI "$@"
+
+
