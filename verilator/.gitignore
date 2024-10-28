@@ -15,7 +15,7 @@
 *.tmp
 *.tex
 *.pdf
-/Makefile
+#/Makefile
 /.ccache
 /artifact/
 README
